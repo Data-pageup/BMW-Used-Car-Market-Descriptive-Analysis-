@@ -157,3 +157,5 @@ These likely correspond to:
 ## 8. Conclusion
 
 This descriptive analysis provides a clear overview of the structure, quality, and main patterns in the BMW used car dataset. The results highlight strong relationships between price, age, and mileage, and reveal important differences across fuel types and transmission categories. These insights form a solid foundation for further predictive modeling or inferential analysis.
+
+
