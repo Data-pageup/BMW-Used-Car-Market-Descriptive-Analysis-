@@ -1,6 +1,11 @@
 
 # Descriptive Analysis of BMW Used Car Dataset
 
+The Question : What exaclty are these dataset is? what is about? how we'll it is? what are different columns are about? what description are we gonna do ?
+
+these are the questions i tried to answer! with my data analysis skill!
+
+
 ## 1. Dataset Overview
 
 This dataset contains information on **10,781 used BMW cars** with the following attributes:
