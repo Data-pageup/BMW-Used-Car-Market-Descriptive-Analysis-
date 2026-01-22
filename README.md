@@ -97,6 +97,9 @@ Key observations:
 
 ## 5. Correlation Analysis
 
+<img width="418" height="327" alt="image" src="https://github.com/user-attachments/assets/b5647603-ac7e-4a3d-8b96-ea9007f4f41c" />
+
+
 Correlation coefficients between numerical variables:
 
 | Variable 1   | Variable 2   | Correlation |
